@@ -148,7 +148,7 @@ body.invitation-locked { overflow: hidden; }
   display: grid;
   place-items: center;
   overflow: hidden;
-  background: linear-gradient(rgba(3, 39, 29, .16), rgba(3, 39, 29, .22)), url("assets/invitation-frame.png") center / cover no-repeat;
+  background: linear-gradient(rgba(3, 39, 29, .16), rgba(3, 39, 29, .22)), url("./invitation-frame.png") center / cover no-repeat;
 }
 
 .hero::before {
