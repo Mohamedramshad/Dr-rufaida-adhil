@@ -42,7 +42,7 @@ body.invitation-locked { overflow: hidden; }
   width: 51%;
   background:
     linear-gradient(rgba(3, 39, 29, .7), rgba(3, 39, 29, .78)),
-    url("assets/invitation-frame.png") center / cover;
+    url("invitation-frame.png") center / cover;
   transition: transform 1.45s cubic-bezier(.75, 0, .2, 1);
 }
 
