@@ -409,7 +409,7 @@ h1 em {
   display: grid;
   place-items: center;
   padding: 6rem 1.4rem;
-  background: linear-gradient(rgba(2, 36, 26, .78), rgba(2, 31, 23, .86)), url("assets/invitation-frame.png") center / cover fixed;
+  background: linear-gradient(rgba(2, 36, 26, .78), rgba(2, 31, 23, .86)), url("./invitation-frame.png") center / cover fixed;
 }
 
 .details-card {
