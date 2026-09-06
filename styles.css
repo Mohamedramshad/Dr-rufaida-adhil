@@ -42,7 +42,7 @@ body.invitation-locked { overflow: hidden; }
   width: 51%;
   background:
     linear-gradient(rgba(3, 39, 29, .7), rgba(3, 39, 29, .78)),
-    url("./invitation-frame.png") center / cover;
+    url("invitation-frame.png") center / cover;
   transition: transform 1.45s cubic-bezier(.75, 0, .2, 1);
 }
 
@@ -148,7 +148,7 @@ body.invitation-locked { overflow: hidden; }
   display: grid;
   place-items: center;
   overflow: hidden;
-  background: linear-gradient(rgba(3, 39, 29, .16), rgba(3, 39, 29, .22)), url("./invitation-frame.png") center / cover no-repeat;
+  background: linear-gradient(rgba(3, 39, 29, .16), rgba(3, 39, 29, .22)), url("invitation-frame.png") center / cover no-repeat;
 }
 
 .hero::before {
@@ -409,7 +409,7 @@ h1 em {
   display: grid;
   place-items: center;
   padding: 6rem 1.4rem;
-  background: linear-gradient(rgba(2, 36, 26, .78), rgba(2, 31, 23, .86)), url("./invitation-frame.png") center / cover fixed;
+  background: linear-gradient(rgba(2, 36, 26, .78), rgba(2, 31, 23, .86)), url("invitation-frame.png") center / cover fixed;
 }
 
 .details-card {
